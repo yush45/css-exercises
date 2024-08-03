@@ -1,0 +1,13 @@
+.shared {
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    font-size: 28px;
+}
+
+.first {
+    background-color: hsl(0, 0%, 0%);
+    color: #ffffff;
+}
+
+.second {
+    background-color: #ffff00;
+}
